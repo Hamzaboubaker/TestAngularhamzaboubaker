@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>PrestaFind RSS Feed</title>
+    <link>http://www.PrestaFind.tn</link>
+    <description>This is a sample RSS feed for testing</description>
+    <item>
+      <title>titre</title>
+      <link>http://www.PrestaFind.tn/titre</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <pubDate>Tue, 07 Mar 2023 00:54:11 GMT</pubDate>
+      <guid>http://www.PrestaFind.tn/titre</guid>
+      <dc:date>2023-03-07T00:54:11Z</dc:date>
+    </item>
+    <item>
+      <title>Annonce2</title>
+      <link>http://www.PrestaFind.tn/Annonce2</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <pubDate>Tue, 07 Mar 2023 00:54:11 GMT</pubDate>
+      <guid>http://www.PrestaFind.tn/Annonce2</guid>
+      <dc:date>2023-03-07T00:54:11Z</dc:date>
+    </item>
+    <item>
+      <title>Remarque sur les API</title>
+      <link>http://www.PrestaFind.tn/Remarque sur les API</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <pubDate>Tue, 07 Mar 2023 00:54:11 GMT</pubDate>
+      <guid>http://www.PrestaFind.tn/Remarque sur les API</guid>
+      <dc:date>2023-03-07T00:54:11Z</dc:date>
+    </item>
+    <item>
+      <title>Annonce3A5</title>
+      <link>http://www.PrestaFind.tn/Annonce3A5</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <pubDate>Tue, 07 Mar 2023 00:54:11 GMT</pubDate>
+      <guid>http://www.PrestaFind.tn/Annonce3A5</guid>
+      <dc:date>2023-03-07T00:54:11Z</dc:date>
+    </item>
+  </channel>
+</rss>
